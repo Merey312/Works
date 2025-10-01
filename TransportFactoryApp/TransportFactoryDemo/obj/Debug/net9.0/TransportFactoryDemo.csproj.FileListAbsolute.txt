@@ -1,0 +1,14 @@
+/Users/merey/TransportFactoryDemo/bin/Debug/net9.0/TransportFactoryDemo
+/Users/merey/TransportFactoryDemo/bin/Debug/net9.0/TransportFactoryDemo.deps.json
+/Users/merey/TransportFactoryDemo/bin/Debug/net9.0/TransportFactoryDemo.runtimeconfig.json
+/Users/merey/TransportFactoryDemo/bin/Debug/net9.0/TransportFactoryDemo.dll
+/Users/merey/TransportFactoryDemo/bin/Debug/net9.0/TransportFactoryDemo.pdb
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.AssemblyInfoInputs.cache
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.AssemblyInfo.cs
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.csproj.CoreCompileInputs.cache
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.dll
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/refint/TransportFactoryDemo.dll
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.pdb
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/TransportFactoryDemo.genruntimeconfig.cache
+/Users/merey/TransportFactoryDemo/obj/Debug/net9.0/ref/TransportFactoryDemo.dll
