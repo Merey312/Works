@@ -1,0 +1,14 @@
+/Users/merey/DesignPrinciples/DesignPrinciples/bin/Debug/net9.0/DesignPrinciples
+/Users/merey/DesignPrinciples/DesignPrinciples/bin/Debug/net9.0/DesignPrinciples.deps.json
+/Users/merey/DesignPrinciples/DesignPrinciples/bin/Debug/net9.0/DesignPrinciples.runtimeconfig.json
+/Users/merey/DesignPrinciples/DesignPrinciples/bin/Debug/net9.0/DesignPrinciples.dll
+/Users/merey/DesignPrinciples/DesignPrinciples/bin/Debug/net9.0/DesignPrinciples.pdb
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.AssemblyInfoInputs.cache
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.AssemblyInfo.cs
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.csproj.CoreCompileInputs.cache
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.dll
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/refint/DesignPrinciples.dll
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.pdb
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/DesignPrinciples.genruntimeconfig.cache
+/Users/merey/DesignPrinciples/DesignPrinciples/obj/Debug/net9.0/ref/DesignPrinciples.dll
