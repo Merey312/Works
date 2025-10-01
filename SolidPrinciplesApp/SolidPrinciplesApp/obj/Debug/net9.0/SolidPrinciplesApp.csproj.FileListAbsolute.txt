@@ -1,0 +1,14 @@
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/bin/Debug/net9.0/SolidPrinciplesApp
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/bin/Debug/net9.0/SolidPrinciplesApp.deps.json
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/bin/Debug/net9.0/SolidPrinciplesApp.runtimeconfig.json
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/bin/Debug/net9.0/SolidPrinciplesApp.dll
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/bin/Debug/net9.0/SolidPrinciplesApp.pdb
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.AssemblyInfoInputs.cache
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.AssemblyInfo.cs
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.csproj.CoreCompileInputs.cache
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.dll
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/refint/SolidPrinciplesApp.dll
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.pdb
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/SolidPrinciplesApp.genruntimeconfig.cache
+/Users/merey/SolidPrinciplesApp/SolidPrinciplesApp/obj/Debug/net9.0/ref/SolidPrinciplesApp.dll
