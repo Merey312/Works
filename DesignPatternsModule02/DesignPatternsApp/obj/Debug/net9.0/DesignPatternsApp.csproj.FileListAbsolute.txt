@@ -1,0 +1,14 @@
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/bin/Debug/net9.0/DesignPatternsApp
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/bin/Debug/net9.0/DesignPatternsApp.deps.json
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/bin/Debug/net9.0/DesignPatternsApp.runtimeconfig.json
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/bin/Debug/net9.0/DesignPatternsApp.dll
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/bin/Debug/net9.0/DesignPatternsApp.pdb
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.AssemblyInfoInputs.cache
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.AssemblyInfo.cs
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.csproj.CoreCompileInputs.cache
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.dll
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/refint/DesignPatternsApp.dll
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.pdb
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/DesignPatternsApp.genruntimeconfig.cache
+/Users/merey/DesignPatternsModule02/DesignPatternsApp/obj/Debug/net9.0/ref/DesignPatternsApp.dll
