@@ -1,0 +1,14 @@
+/Users/merey/UserManagementApp/UserManagement/bin/Debug/net9.0/UserManagement
+/Users/merey/UserManagementApp/UserManagement/bin/Debug/net9.0/UserManagement.deps.json
+/Users/merey/UserManagementApp/UserManagement/bin/Debug/net9.0/UserManagement.runtimeconfig.json
+/Users/merey/UserManagementApp/UserManagement/bin/Debug/net9.0/UserManagement.dll
+/Users/merey/UserManagementApp/UserManagement/bin/Debug/net9.0/UserManagement.pdb
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.AssemblyInfoInputs.cache
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.AssemblyInfo.cs
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.csproj.CoreCompileInputs.cache
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.dll
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/refint/UserManagement.dll
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.pdb
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/UserManagement.genruntimeconfig.cache
+/Users/merey/UserManagementApp/UserManagement/obj/Debug/net9.0/ref/UserManagement.dll
