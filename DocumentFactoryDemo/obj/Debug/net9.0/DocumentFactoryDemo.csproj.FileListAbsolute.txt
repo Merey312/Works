@@ -1,0 +1,14 @@
+/Users/merey/DocumentFactoryDemo/bin/Debug/net9.0/DocumentFactoryDemo
+/Users/merey/DocumentFactoryDemo/bin/Debug/net9.0/DocumentFactoryDemo.deps.json
+/Users/merey/DocumentFactoryDemo/bin/Debug/net9.0/DocumentFactoryDemo.runtimeconfig.json
+/Users/merey/DocumentFactoryDemo/bin/Debug/net9.0/DocumentFactoryDemo.dll
+/Users/merey/DocumentFactoryDemo/bin/Debug/net9.0/DocumentFactoryDemo.pdb
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.AssemblyInfoInputs.cache
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.AssemblyInfo.cs
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.csproj.CoreCompileInputs.cache
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.dll
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/refint/DocumentFactoryDemo.dll
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.pdb
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/DocumentFactoryDemo.genruntimeconfig.cache
+/Users/merey/DocumentFactoryDemo/obj/Debug/net9.0/ref/DocumentFactoryDemo.dll
