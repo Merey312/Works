@@ -1,0 +1,14 @@
+/Users/merey/ShippingApp/bin/Debug/net9.0/ShippingApp
+/Users/merey/ShippingApp/bin/Debug/net9.0/ShippingApp.deps.json
+/Users/merey/ShippingApp/bin/Debug/net9.0/ShippingApp.runtimeconfig.json
+/Users/merey/ShippingApp/bin/Debug/net9.0/ShippingApp.dll
+/Users/merey/ShippingApp/bin/Debug/net9.0/ShippingApp.pdb
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.AssemblyInfoInputs.cache
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.AssemblyInfo.cs
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.csproj.CoreCompileInputs.cache
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.dll
+/Users/merey/ShippingApp/obj/Debug/net9.0/refint/ShippingApp.dll
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.pdb
+/Users/merey/ShippingApp/obj/Debug/net9.0/ShippingApp.genruntimeconfig.cache
+/Users/merey/ShippingApp/obj/Debug/net9.0/ref/ShippingApp.dll
