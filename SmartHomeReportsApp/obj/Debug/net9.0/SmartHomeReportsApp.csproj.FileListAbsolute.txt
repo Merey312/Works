@@ -1,0 +1,14 @@
+/Users/merey/SmartHomeReportsApp/bin/Debug/net9.0/SmartHomeReportsApp
+/Users/merey/SmartHomeReportsApp/bin/Debug/net9.0/SmartHomeReportsApp.deps.json
+/Users/merey/SmartHomeReportsApp/bin/Debug/net9.0/SmartHomeReportsApp.runtimeconfig.json
+/Users/merey/SmartHomeReportsApp/bin/Debug/net9.0/SmartHomeReportsApp.dll
+/Users/merey/SmartHomeReportsApp/bin/Debug/net9.0/SmartHomeReportsApp.pdb
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.AssemblyInfoInputs.cache
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.AssemblyInfo.cs
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.csproj.CoreCompileInputs.cache
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.dll
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/refint/SmartHomeReportsApp.dll
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.pdb
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/SmartHomeReportsApp.genruntimeconfig.cache
+/Users/merey/SmartHomeReportsApp/obj/Debug/net9.0/ref/SmartHomeReportsApp.dll
