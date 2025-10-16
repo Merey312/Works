@@ -1,0 +1,14 @@
+/Users/merey/BehavioralPatternsDemo/bin/Debug/net9.0/BehavioralPatternsDemo
+/Users/merey/BehavioralPatternsDemo/bin/Debug/net9.0/BehavioralPatternsDemo.deps.json
+/Users/merey/BehavioralPatternsDemo/bin/Debug/net9.0/BehavioralPatternsDemo.runtimeconfig.json
+/Users/merey/BehavioralPatternsDemo/bin/Debug/net9.0/BehavioralPatternsDemo.dll
+/Users/merey/BehavioralPatternsDemo/bin/Debug/net9.0/BehavioralPatternsDemo.pdb
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.AssemblyInfoInputs.cache
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.AssemblyInfo.cs
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.csproj.CoreCompileInputs.cache
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.dll
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/refint/BehavioralPatternsDemo.dll
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.pdb
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/BehavioralPatternsDemo.genruntimeconfig.cache
+/Users/merey/BehavioralPatternsDemo/obj/Debug/net9.0/ref/BehavioralPatternsDemo.dll
