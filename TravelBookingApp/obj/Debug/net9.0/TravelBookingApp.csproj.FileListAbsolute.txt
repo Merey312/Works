@@ -1,0 +1,14 @@
+/Users/merey/TravelBookingApp/bin/Debug/net9.0/TravelBookingApp
+/Users/merey/TravelBookingApp/bin/Debug/net9.0/TravelBookingApp.deps.json
+/Users/merey/TravelBookingApp/bin/Debug/net9.0/TravelBookingApp.runtimeconfig.json
+/Users/merey/TravelBookingApp/bin/Debug/net9.0/TravelBookingApp.dll
+/Users/merey/TravelBookingApp/bin/Debug/net9.0/TravelBookingApp.pdb
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.AssemblyInfoInputs.cache
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.AssemblyInfo.cs
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.csproj.CoreCompileInputs.cache
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.dll
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/refint/TravelBookingApp.dll
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.pdb
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/TravelBookingApp.genruntimeconfig.cache
+/Users/merey/TravelBookingApp/obj/Debug/net9.0/ref/TravelBookingApp.dll
