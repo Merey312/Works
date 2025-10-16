@@ -1,0 +1,14 @@
+/Users/merey/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp
+/Users/merey/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.deps.json
+/Users/merey/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.runtimeconfig.json
+/Users/merey/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.dll
+/Users/merey/SmartHomeApp/bin/Debug/net9.0/SmartHomeApp.pdb
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.AssemblyInfoInputs.cache
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.AssemblyInfo.cs
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.csproj.CoreCompileInputs.cache
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.dll
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/refint/SmartHomeApp.dll
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.pdb
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/SmartHomeApp.genruntimeconfig.cache
+/Users/merey/SmartHomeApp/obj/Debug/net9.0/ref/SmartHomeApp.dll
