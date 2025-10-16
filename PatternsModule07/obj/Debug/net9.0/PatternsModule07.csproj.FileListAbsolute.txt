@@ -1,0 +1,14 @@
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.AssemblyInfoInputs.cache
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.AssemblyInfo.cs
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.csproj.CoreCompileInputs.cache
+/Users/merey/PatternsModule07/bin/Debug/net9.0/PatternsModule07
+/Users/merey/PatternsModule07/bin/Debug/net9.0/PatternsModule07.deps.json
+/Users/merey/PatternsModule07/bin/Debug/net9.0/PatternsModule07.runtimeconfig.json
+/Users/merey/PatternsModule07/bin/Debug/net9.0/PatternsModule07.dll
+/Users/merey/PatternsModule07/bin/Debug/net9.0/PatternsModule07.pdb
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.dll
+/Users/merey/PatternsModule07/obj/Debug/net9.0/refint/PatternsModule07.dll
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.pdb
+/Users/merey/PatternsModule07/obj/Debug/net9.0/PatternsModule07.genruntimeconfig.cache
+/Users/merey/PatternsModule07/obj/Debug/net9.0/ref/PatternsModule07.dll
