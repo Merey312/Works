@@ -1,0 +1,14 @@
+/Users/merey/Module08_All/bin/Debug/net9.0/Module08_All
+/Users/merey/Module08_All/bin/Debug/net9.0/Module08_All.deps.json
+/Users/merey/Module08_All/bin/Debug/net9.0/Module08_All.runtimeconfig.json
+/Users/merey/Module08_All/bin/Debug/net9.0/Module08_All.dll
+/Users/merey/Module08_All/bin/Debug/net9.0/Module08_All.pdb
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.AssemblyInfoInputs.cache
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.AssemblyInfo.cs
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.csproj.CoreCompileInputs.cache
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.dll
+/Users/merey/Module08_All/obj/Debug/net9.0/refint/Module08_All.dll
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.pdb
+/Users/merey/Module08_All/obj/Debug/net9.0/Module08_All.genruntimeconfig.cache
+/Users/merey/Module08_All/obj/Debug/net9.0/ref/Module08_All.dll
