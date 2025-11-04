@@ -1,0 +1,14 @@
+/Users/merey/Module08/bin/Debug/net9.0/Module08
+/Users/merey/Module08/bin/Debug/net9.0/Module08.deps.json
+/Users/merey/Module08/bin/Debug/net9.0/Module08.runtimeconfig.json
+/Users/merey/Module08/bin/Debug/net9.0/Module08.dll
+/Users/merey/Module08/bin/Debug/net9.0/Module08.pdb
+/Users/merey/Module08/obj/Debug/net9.0/Module08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/Module08/obj/Debug/net9.0/Module08.AssemblyInfoInputs.cache
+/Users/merey/Module08/obj/Debug/net9.0/Module08.AssemblyInfo.cs
+/Users/merey/Module08/obj/Debug/net9.0/Module08.csproj.CoreCompileInputs.cache
+/Users/merey/Module08/obj/Debug/net9.0/Module08.dll
+/Users/merey/Module08/obj/Debug/net9.0/refint/Module08.dll
+/Users/merey/Module08/obj/Debug/net9.0/Module08.pdb
+/Users/merey/Module08/obj/Debug/net9.0/Module08.genruntimeconfig.cache
+/Users/merey/Module08/obj/Debug/net9.0/ref/Module08.dll
