@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CafePatterns/1.0.0": {
+        "runtime": {
+          "CafePatterns.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CafePatterns/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

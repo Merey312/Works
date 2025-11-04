@@ -1,0 +1,14 @@
+/Users/merey/CafePatterns/bin/Debug/net9.0/CafePatterns
+/Users/merey/CafePatterns/bin/Debug/net9.0/CafePatterns.deps.json
+/Users/merey/CafePatterns/bin/Debug/net9.0/CafePatterns.runtimeconfig.json
+/Users/merey/CafePatterns/bin/Debug/net9.0/CafePatterns.dll
+/Users/merey/CafePatterns/bin/Debug/net9.0/CafePatterns.pdb
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.AssemblyInfoInputs.cache
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.AssemblyInfo.cs
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.csproj.CoreCompileInputs.cache
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.dll
+/Users/merey/CafePatterns/obj/Debug/net9.0/refint/CafePatterns.dll
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.pdb
+/Users/merey/CafePatterns/obj/Debug/net9.0/CafePatterns.genruntimeconfig.cache
+/Users/merey/CafePatterns/obj/Debug/net9.0/ref/CafePatterns.dll
