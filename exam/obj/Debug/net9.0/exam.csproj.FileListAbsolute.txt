@@ -1,0 +1,14 @@
+/Users/merey/exam/bin/Debug/net9.0/exam
+/Users/merey/exam/bin/Debug/net9.0/exam.deps.json
+/Users/merey/exam/bin/Debug/net9.0/exam.runtimeconfig.json
+/Users/merey/exam/bin/Debug/net9.0/exam.dll
+/Users/merey/exam/bin/Debug/net9.0/exam.pdb
+/Users/merey/exam/obj/Debug/net9.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merey/exam/obj/Debug/net9.0/exam.AssemblyInfoInputs.cache
+/Users/merey/exam/obj/Debug/net9.0/exam.AssemblyInfo.cs
+/Users/merey/exam/obj/Debug/net9.0/exam.csproj.CoreCompileInputs.cache
+/Users/merey/exam/obj/Debug/net9.0/exam.dll
+/Users/merey/exam/obj/Debug/net9.0/refint/exam.dll
+/Users/merey/exam/obj/Debug/net9.0/exam.pdb
+/Users/merey/exam/obj/Debug/net9.0/exam.genruntimeconfig.cache
+/Users/merey/exam/obj/Debug/net9.0/ref/exam.dll
